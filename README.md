@@ -11,7 +11,7 @@ knowledge in  flutter animation.
 
 ## App Image 
 
-<img src ="https://github.com/MarioCarlosChita/card_bank_transition_animation/blob/main/assets/app.png" width="400" height="400">
+<img src ="https://github.com/MarioCarlosChita/card_bank_transition_animation/blob/main/assets/app.png" width="400">
 
 
 
